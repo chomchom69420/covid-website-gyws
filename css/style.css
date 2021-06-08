@@ -37,7 +37,7 @@ html {
     width: 100vw;
     height: 30rem;
     background-color: rgba(94,86,51, 0.6);
-    background-image: url("/img/jvm_kids.jpg");
+    background-image: url('/img/jvm_kids.jpg');
     background-size: cover;
     background-blend-mode:multiply;
     background-attachment: fixed;
